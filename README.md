@@ -15,15 +15,6 @@
 - 👀 I’m interested in learn new things
 - 📚 I’m currently studying software analysis and development
 
----
-
-## 📊 Atividade no GitHub / GitHub Activity
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rafabalko&show_icons=true&theme=github_dark&count_private=true" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafabalko&layout=compact&theme=github_dark&langs_count=10" height="180em"/>
-</p>
-
----
 
 ## 📫 Contato / Contact
 <p align="center">
